@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/ayaya/static/js/main.ddbb9a8d.chunk.js",
+    "main.js.map": "/ayaya/static/js/main.ddbb9a8d.chunk.js.map",
+    "runtime-main.js": "/ayaya/static/js/runtime-main.8d5fde03.js",
+    "runtime-main.js.map": "/ayaya/static/js/runtime-main.8d5fde03.js.map",
+    "static/js/2.4f3d90e9.chunk.js": "/ayaya/static/js/2.4f3d90e9.chunk.js",
+    "static/js/2.4f3d90e9.chunk.js.map": "/ayaya/static/js/2.4f3d90e9.chunk.js.map",
+    "index.html": "/ayaya/index.html",
+    "static/js/2.4f3d90e9.chunk.js.LICENSE.txt": "/ayaya/static/js/2.4f3d90e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d5fde03.js",
+    "static/js/2.4f3d90e9.chunk.js",
+    "static/js/main.ddbb9a8d.chunk.js"
+  ]
+}
