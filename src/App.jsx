@@ -5,7 +5,7 @@ import { useState } from 'react';
 
 
 export const App = () => {
-  const [text, setText] = useState("?");
+  const [text, setText] = useState("あやや");
   const onClickChangeText = () => {
     const results = ["大吉", "小吉", "凶"]
     const n = Math.floor(Math.random() * 3);
