@@ -7,9 +7,9 @@ import { useState } from 'react';
 export const App = () => {
   const [text, setText] = useState("?");
   const onClickChangeText = () => {
-    const arr = ["大吉", "小吉", "凶"]
-    const t = Math.floor(Math.random() * 3);
-    setText(arr[t]);
+    const results = ["大吉", "小吉", "凶"]
+    const n = Math.floor(Math.random() * 3);
+    setText(results[n]);
   }
   const StyledButton = styled(Button)`
     color: #fff;    
